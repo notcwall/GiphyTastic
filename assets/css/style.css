@@ -1,0 +1,32 @@
+body{
+	font-weight: bold;
+}
+
+form{
+	float: right;
+}
+
+button{
+	font-weight: bold;
+	margin: 5px 10px;
+	border: none;
+	height: 30px;
+	background-color: #0088DD;
+	color: #FFFFFF;
+}
+
+#buttonList{
+	margin: 10px 0 30px;
+	padding-bottom: 10px;
+	border-bottom: solid;
+	border-width: 1px;
+	border-color: #999999;
+}
+
+#addButtonForm{
+	margin-right: 30px;
+}
+
+#country-input{
+	margin: 5px 0;
+}
